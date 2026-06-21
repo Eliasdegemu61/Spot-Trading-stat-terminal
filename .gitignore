@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug / local logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev.log
+*.log
+
+# env
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
